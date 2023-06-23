@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses/mit/)
 ## Description
-PWA-Text-Editor is a Progressive web applicatoin has been created for use when working with javascript. Styling helps users feel like they are coding in a IDE. It uses IndexedDB for data presistance, and localstorage as a backup. A service worker was also implemented in with this, allowing for offline mode and a faster experence.
+PWA-Text-Editor is a Progressive web applicatoin that's been created for use when working with note taking and code snippets. Styling helps users feel like they are coding in a IDE. It uses IndexedDB for data presistance, and localstorage as a backup. A service worker was also implemented in with this, allowing for offline mode and a faster experence.
 
   ## Technology Stack
 
