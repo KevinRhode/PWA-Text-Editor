@@ -75,4 +75,6 @@ To run the application use:
 
 ## Preview
 
-![Photo of Insomnia with info populated](info-nosql.PNG)
+![Desktop Shortcut](client\src\images\shortcut.PNG)
+![Using with Browser](client\src\images\browser.PNG)
+![Using native](client\src\images\native.PNG)
