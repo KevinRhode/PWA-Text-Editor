@@ -70,7 +70,7 @@ To run the application use:
 
  npm start
 ```
-[Application Deployed](https://pwa-text-editor-kevinrhode-e341d0818889.herokuapp.com/)
+[Application Deployed](https://pwa-text-editor-kevinrhode-e341d0818889.herokuapp.com/)  
 [Application Repo](https://github.com/KevinRhode/PWA-Text-Editor)
 
 ## Preview
